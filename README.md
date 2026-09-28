@@ -1,0 +1,1 @@
+# 185-g-n-hesaplama
