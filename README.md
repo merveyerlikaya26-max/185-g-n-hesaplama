@@ -1,1 +1,1 @@
-# 185-g-n-hesaplama
+# 185-gun-hesaplama
